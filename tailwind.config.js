@@ -16,7 +16,7 @@ module.exports = {
     },
     fontFamily: {
       sans: ['Outfit', 'sans-serif'],
-      serif: ['Yong Serif', 'serif'],
+      serif: ['Young Serif', 'serif'],
     },
     extend: {},
   },
